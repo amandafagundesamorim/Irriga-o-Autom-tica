@@ -43,5 +43,5 @@ void loop() {
     Serial.println("Solo úmido. Irrigação desativada.");
   }
 
-  delay(1800000);  // Espera 1 hora antes de fazer uma nova leitura
+  delay(3600000);  // Espera 1 hora antes de fazer uma nova leitura
 }
